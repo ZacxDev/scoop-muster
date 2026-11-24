@@ -1,16 +1,16 @@
 {
-  "version": "0.289.0",
+  "version": "0.290.0",
   "description": "Command-line client for a muster server (muster-mirror needs tmux and is not available on Windows)",
   "homepage": "https://github.com/ZacxDev/muster",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ZacxDev/muster/releases/download/v0.289.0/muster_windows_amd64.zip",
-      "hash": "5ddcba1b609fab5088b273cd8e011665c879147a24d150b9a9f4aa5baaa21ff6"
+      "url": "https://github.com/ZacxDev/muster/releases/download/v0.290.0/muster_windows_amd64.zip",
+      "hash": "ba15fc2c01143bf381e9a88dbee15c24682256c60bcf20607bb8afb928331386"
     },
     "arm64": {
-      "url": "https://github.com/ZacxDev/muster/releases/download/v0.289.0/muster_windows_arm64.zip",
-      "hash": "d53a9ee7f143ba99d3ff0265a9d4cc39c3cddc1a9619730e2b79b24c6b5a1cf4"
+      "url": "https://github.com/ZacxDev/muster/releases/download/v0.290.0/muster_windows_arm64.zip",
+      "hash": "a366404d0ef46e0e146d30abfb059708e71c0e1675ae5f6db257665643eb0b5c"
     }
   },
   "bin": "muster.exe",
